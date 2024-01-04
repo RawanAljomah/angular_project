@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMSIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoicmF3YW4iLCJsYXN0bmFtZSI6ImpvbWFoIiwiZW1haWwiOiJyYXdhbkBnbWFpbC5jb20iLCJyb2xlcyI6WyJVU0VSIl19.v95dMZ-xJjXbzddj9TGR2JUfIM2fDAju2TW14d4sT1w"
+    },
+    {
+      "id": "user2",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoicmF3YW4iLCJsYXN0bmFtZSI6ImpvbWFoIiwiZW1haWwiOiJyYXdhbkBnbWFpbC5jb20iLCJyb2xlcyI6WyJVU0VSIl19.Rpsv5lx73_56xFnhxggoyoVhSB3LivUhMLIgr0nkJPc"
+    },
+    {
+      "id": "admin",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER",
+        "ADMIN"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoicmF3YW4iLCJsYXN0bmFtZSI6ImpvbWFoIiwiZW1haWwiOiJyYXdhbkBnbWFpbC5jb20iLCJyb2xlcyI6WyJVU0VSIiwiQURNSU4iXX0.IPLZv4v7kKrLre3hAkOmgUCH1ArvUChr5U28rrMaQ3A"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": "7000",
+      "checked": true
+    },
+    {
+      "id": 2,
+      "name": "Printer",
+      "price": 2500,
+      "checked": false
+    },
+    {
+      "id": 3,
+      "name": "Phone",
+      "price": 8000,
+      "checked": true
+    },
+    {
+      "id": 4,
+      "name": "HeadPhones",
+      "price": 8000,
+      "checked": false
+    },
+    {
+      "name": "Smart",
+      "price": "8000",
+      "checked": "false",
+      "id": 5
+    },
+    {
+      "name": "rawan",
+      "price": "0",
+      "checked": false,
+      "id": 6
+    },
+    {
+      "name": "aaaa",
+      "price": "0122",
+      "checked": "false",
+      "id": 7
+    }
+  ]
+}
